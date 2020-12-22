@@ -1,0 +1,21 @@
+footer {
+  background-color: rgb(11, 119, 161);
+  height: 50px;
+}
+.title {
+  color: #00fa9a;
+  text-align: center;
+  vertical-align: middle;
+}
+@media only screen and (max-width: 700px) {
+  .title {
+    font-size: 1.5rem;
+    padding-top: 5px;
+  }
+}
+@media only screen and (max-width: 530px) {
+  .title {
+    font-size: 1.1rem;
+    padding-top: 5px;
+  }
+}

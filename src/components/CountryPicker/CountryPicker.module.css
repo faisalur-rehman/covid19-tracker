@@ -1,0 +1,12 @@
+.formControl {
+  width: 20%;
+  margin: 50px auto;
+  display: inline-block;
+  border: 1px solid black;
+}
+.form {
+  display: block;
+  margin: auto;
+  width: 90%;
+  border: 1px solid black;
+}

@@ -1,0 +1,20 @@
+.container {
+  margin-top: 20px;
+}
+.confirmed {
+  border-bottom: 12px solid yellow !important;
+
+  width: 90% !important;
+  margin: auto !important;
+  display: block;
+}
+.deaths {
+  border-bottom: 12px solid red !important;
+  width: 90%;
+  margin: auto;
+}
+.recovered {
+  border-bottom: 12px solid green !important;
+  width: 90%;
+  margin: auto;
+}
